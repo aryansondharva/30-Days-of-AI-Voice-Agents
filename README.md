@@ -428,4 +428,4 @@ uvicorn main:app --reload
 
 ---
 
-**Built with ❤️ BY ARYAN SONDHARVA**
+**N9NE-AI Powered by Murf AI 🚀**
