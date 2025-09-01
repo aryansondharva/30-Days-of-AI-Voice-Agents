@@ -121,7 +121,7 @@ A sophisticated **AI-powered conversational platform** that combines intelligent
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aryansondharva/aryan.git
    cd N9NE-AI
    ```
 
@@ -322,10 +322,9 @@ N9NE-AI/
 - And more languages supported through translation service
 
 ### Voice Personas (Multilingual Agent)
-- 👤 **Normal**: Standard conversational voice
+
 - 🧒 **Shinchan**: Playful, energetic child-like voice
-- 🤖 **Robot**: Mechanical, robotic voice
-- 🎭 **Deep Voice**: Deep, authoritative voice
+- 😴 **Nobita**: Tired student who needs Doraemon's help
 - 👧 **Girl**: Sweet, cheerful girl voice
 
 ## 💡 Why This Is Impressive
@@ -427,5 +426,4 @@ uvicorn main:app --reload
 ```
 
 ---
-**Built with ❤️ BY ARYAN SONDHARVA**
 **N9NE-AI Powered by Murf AI 🚀**
